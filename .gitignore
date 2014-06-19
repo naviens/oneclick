@@ -52,3 +52,10 @@ coverage.xml
 # Sphinx documentation
 docs/_build/
 
+# IDE files
+/.project
+/.pydevproject
+/.idea
+/.ropeproject
+/*.iml
+/.settings
